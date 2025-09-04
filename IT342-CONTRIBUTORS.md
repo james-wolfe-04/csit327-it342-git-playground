@@ -1,9 +1,21 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
-<<<<<<< HEAD
-- Wolfe, James (**@james-wolfe-04**)
-=======
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**
->>>>>>> 36c6d3c4c7edba183864ae6ab4c76b0e17257ffe
+- Sumucad, Joseph Kyle (**@kylehatescodes**)
+- Abadiano, Kent Dominic (**@KapitanKent**)
+- Ygot, Dante (**@Dantogy**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
+- Casas, Kursten Dane (**@kurstdane**)
+- Carao, Estelle Felicity (**@teruteriri**)
+- Abella, Franchesca Louise (**@ChescaAbella**)
+- Go, Felix Christian (**@Lumity-13**)
+- Lo, Joshua Noel (**juswangs12**)
+- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Tabungar, Steven Jan (**@Smuffinn**)
+- verano, joel (**@VeranoJoel**)
+- Wolfe, James (**@james-wolfe-04**)
